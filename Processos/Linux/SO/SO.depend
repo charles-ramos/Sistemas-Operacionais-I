@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600622876 source:/home/charles/Documentos/Aulas/3-ADS-B/SO - Branquinho/ex1/SO/main.c
+	<stdio.h>
+	<stdlib.h>
+
